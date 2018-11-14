@@ -1,0 +1,7 @@
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\bin\Debug\Slot_Machine_Console.exe.config
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\bin\Debug\Slot_Machine_Console.exe
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\bin\Debug\Slot_Machine_Console.pdb
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\obj\Debug\Slot_Machine_Console.csprojAssemblyReference.cache
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\obj\Debug\Slot_Machine_Console.csproj.CoreCompileInputs.cache
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\obj\Debug\Slot_Machine_Console.exe
+C:\Users\Killer7\Desktop\Slot_Machine\Slot_Machine_Console\Slot_Machine_Console\obj\Debug\Slot_Machine_Console.pdb
